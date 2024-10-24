@@ -47,7 +47,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shivateja20013/rule_engine_backend.git
+   git clone https://github.com/Mahammadvalluru/Rule_Engine_API_
    cd rule_engine_backend
    ```
 
